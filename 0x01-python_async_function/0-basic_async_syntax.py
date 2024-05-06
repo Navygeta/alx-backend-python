@@ -1,3 +1,13 @@
+#!/usr/bin/env python3
+
+"""
+Module for asynchronous operations.
+
+This module provides a single coroutine, wait_random, which asynchronously
+waits
+for a random delay.
+"""
+
 import asyncio
 import random
 
