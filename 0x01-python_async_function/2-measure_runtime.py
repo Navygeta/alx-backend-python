@@ -5,7 +5,6 @@
 import asyncio
 import time
 
-# Importing wait_n from the previous file
 from 1-concurrent_coroutines import wait_n
 
 
